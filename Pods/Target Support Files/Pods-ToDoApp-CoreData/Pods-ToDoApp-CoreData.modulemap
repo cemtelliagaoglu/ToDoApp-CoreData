@@ -1,0 +1,6 @@
+framework module Pods_ToDoApp_CoreData {
+  umbrella header "Pods-ToDoApp-CoreData-umbrella.h"
+
+  export *
+  module * { export * }
+}
